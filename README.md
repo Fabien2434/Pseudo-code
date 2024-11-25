@@ -1,11 +1,8 @@
 DEBUT  bonbons  (nombre réel de bonbons à acheter)
 
-    Tant que argent > 0=12.47
+    Tant que argent > prix du bonbons
        argent <- argent +1
-     Fin Tant que
-
-     Tant que bonbon > 0=1.14
-        bonbons <- bonbons +1
+       bonbons <- bonbons +1
      Fin Tant que
 
      retourner nombre bonbons
